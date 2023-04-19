@@ -1,3 +1,3 @@
-module rousquille_gotools
+module gotools
 
 go 1.20
