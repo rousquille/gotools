@@ -1,4 +1,4 @@
-package rousquille_gotools
+package gotools
 
 import (
 	"log"
